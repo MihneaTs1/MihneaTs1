@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @MihneaTs1
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on big projects
-- 📫 How to reach me ...
+👋Hello! my name is @MihneaTs1. I am a 12 year-old who lives in Romania and who studies at the [Internaional Computing High School Of Bucharest]:(https://ichb.ro/). I am interested in C++ and C#. I am learning to code in Java and JavaScript.
 
 <!---
 MihneaTs1/MihneaTs1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
