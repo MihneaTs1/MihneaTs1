@@ -1,4 +1,23 @@
-👋Hello! my name is MihneaStoica. I am a 14 year-old who lives in Romania and who studies at the [Internaional Computing High School Of Bucharest]:(https://ichb.ro/). I am interested in C++ and C#. I am learning to code in Java and JavaScript.
+# Hi there, I'm Mihnea-Teodor Stoica! 👋
+
+[![Profile Views](https://komarev.com/ghpvc/?username=MihneaStoica&color=blue)](https://github.com/MihneaStoica)
+
+## About Me
+- 🧑‍🎓 I'm 14 years old and currently studying at the [International Computing High School of Bucharest](https://ichb.ro/).
+- 💻 I love coding and have experience in multiple programming languages.
+
+## Technologies I Work With
+- **Programming Languages**: C/C++, Python, Java
+- **Web Development**: HTML
+
+## Get in Touch
+- 📫 You can reach me via [GitHub](https://github.com/MihneaStoica)
+
+## GitHub Stats
+![Mihnea's GitHub stats](https://github-readme-stats.vercel.app/api?username=MihneaStoica&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MihneaStoica&layout=compact&theme=radical)
 
 <!---
 MihneaTs1/MihneaTs1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
