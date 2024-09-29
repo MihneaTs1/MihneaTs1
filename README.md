@@ -16,10 +16,10 @@
 - **Other**: SQL, Bash
 
 ## Achievements
-- 🏆 **5th Grade**: National Olympic - **Gold**
-- 🏆 **6th Grade**: National Olympic - **Silver**
-- 🏆 **7th Grade**: National Olympic - **Silver**
-- 🏆 **8th Grade**: National Olympic - **Silver**, International Olympic (IATI) - **Bronze**
+- 🏆 **5th Grade**: National Informatics Olympic - **Gold**
+- 🏆 **6th Grade**: National Informatics Olympic - **Silver**
+- 🏆 **7th Grade**: National Informatics Olympic - **Silver**
+- 🏆 **8th Grade**: National Informatics Olympic - **Silver**, International Olympic (IATI) - **Bronze**
 - 🏆 **9th Grade**: Qualified in the **Robotics Team**, studying **Cybersecurity** and **AI**
 
 ## GitHub Stats
