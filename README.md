@@ -1,9 +1,9 @@
+[![Profile Views](https://komarev.com/ghpvc/?username=MihneaTs1&color=blue)](https://github.com/MihneaTs1)
+
 > What's the difference between an optimistic person, a negativist person, and a programmer?
 > The optimistic person says the glass is half full, the negativist person says the glass is half empty, and the programmer says that the glass is 2 times bigger than it should :))).
 
 # Hi there, I'm Mihnea-Teodor Stoica! 👋
-
-[![Profile Views](https://komarev.com/ghpvc/?username=MihneaTs1&color=blue)](https://github.com/MihneaTs1)
 
 ## About Me
 - 🧑‍🎓 I'm 14 years old and currently studying at the [International Computing High School of Bucharest](https://ichb.ro/).
