@@ -25,11 +25,11 @@
 ## GitHub Stats
 ![Mihnea's GitHub stats](https://github-readme-stats.vercel.app/api?username=MihneaTs1&show_icons=true&theme=monokai&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MihneaTs1&layout=compact&theme=monokai)
-
 ## WakaTime Stats
 [![MihneaTs1's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MihneaTs1&theme=monokai&layout=default)](https://github.com/anuraghazra/github-readme-stats)
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MihneaTs1&theme=monokai&layout=normal)
 
 ## Get in Touch
 - 📫 You can reach me via [GitHub](https://github.com/MihneaTs1) and [Codeforces](https://codeforces.com/profile/KimberlyBruh)
