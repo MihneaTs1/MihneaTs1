@@ -6,7 +6,7 @@
 # Hi there, I'm Mihnea-Teodor Stoica! 👋
 
 ## About Me
-- 🧑‍🎓 I'm 14 years old and currently studying at the [International Computing High School of Bucharest](https://ichb.ro/).
+- 🧑‍🎓 I'm 14 years old and currently studying at Romania's [International Computing High School of Bucharest](https://ichb.ro/).
 - 💻 I love coding and have experience in multiple programming languages, as well as cybersecurity and AI.
 - 🤖 I'm part of my school's **Robotics Team** and actively studying **Cybersecurity** and **Artificial Intelligence**.
 
