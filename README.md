@@ -16,11 +16,11 @@
 - **Other**: SQL, Bash, Batch
 
 ## Achievements
-- 🏆 **5th Grade**: National Informatics Olympic - **Gold**
-- 🏆 **6th Grade**: National Informatics Olympic - **Silver**
-- 🏆 **7th Grade**: National Informatics Olympic - **Silver**
-- 🏆 **8th Grade**: National Informatics Olympic - **Silver**, International Olympic (IATI) - **Bronze**
-- 🏆 **9th Grade**: Qualified in the **Robotics Team**, studying **Cybersecurity** and **AI**, and **to be continued...**
+- 🏆 **5th Grade**(2020-2021): Romanian National Informatics Olympic - **Gold**
+- 🏆 **6th Grade**(2021-2022): Romanian National Informatics Olympic - **Silver**
+- 🏆 **7th Grade**(2022-2023): Romanian National Informatics Olympic - **Silver**
+- 🏆 **8th Grade**(2023-2024): Romanian National Informatics Olympic - **Silver**, International Olympic (IATI Shumen, Bulgaria) - **Bronze**
+- 🏆 **9th Grade**(2024-2025): Studying **Cybersecurity** and **AI**, and **to be continued...**
 
 ## GitHub Stats
 ![Mihnea's GitHub stats](https://github-readme-stats.vercel.app/api?username=MihneaTs1&show_icons=true&theme=monokai&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
