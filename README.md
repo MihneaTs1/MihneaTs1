@@ -26,6 +26,10 @@
 - 📫 You can reach me via [GitHub](https://github.com/MihneaTs1) and [Codeforces](https://codeforces.com/profile/KimberlyBruh)
 
 <!---
+TODO Update Socials
+--->
+
+<!---
 MihneaTs1/MihneaTs1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
