@@ -1,4 +1,4 @@
-### > Life is like chess. The higher your rating, the better you are.
+> Life is like chess. The higher your rating, the better you are.
 
 # Hi there, I'm Mihnea-Teodor Stoica! 👋
 
