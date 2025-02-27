@@ -24,10 +24,6 @@
 - 📫 You can reach me via [GitHub](https://github.com/MihneaTs1), [Codeforces](https://codeforces.com/profile/KimberlyBruh) or by mailing stoicamihnea2009@gmail.com
 
 <!---
-TODO Update Socials
---->
-
-<!---
 MihneaTs1/MihneaTs1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
