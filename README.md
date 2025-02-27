@@ -21,7 +21,7 @@
 - 🏆 **9th Grade**(2024-2025): Studying **Cybersecurity** and **AI**, and **to be continued...**
 
 ## Get in Touch
-- 📫 You can reach me via [GitHub](https://github.com/MihneaTs1) and [Codeforces](https://codeforces.com/profile/KimberlyBruh)
+- 📫 You can reach me via [GitHub](https://github.com/MihneaTs1), [Codeforces](https://codeforces.com/profile/KimberlyBruh) or by mailing stoicamihnea2009@gmail.com
 
 <!---
 TODO Update Socials
