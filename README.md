@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about technology, competitive progr
 ## 🛠️ Technologies & Tools
 - **Languages:** C/C++, Python, Java, Rust, Go
 - **Web:** HTML, CSS, JavaScript, TypeScript, PHP, React
-- **Other:** Linux, Git, Bash, VS Code
+- **Other:** Linux, Git, Bash, Zsh, VS Code
 
 ## 🏆 Achievements
 - **2020-2021 (5th Grade):** Romanian National Informatics Olympiad - 🥇 Gold
