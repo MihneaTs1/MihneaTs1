@@ -6,9 +6,8 @@
 - 🤖 I'm an Olympic in **Competitive Programming** and actively studying **Cybersecurity** and **Artificial Intelligence**.
 
 ## Technologies I Work With
-- **Programming Languages**: C/C++, Python, Java
-- **Web Development**: HTML, CSS, PHP
-- **Other**: SQL, Bash, Batch
+- **Programming Languages**: C/C++, Python, Java, Rust, Go
+- **Web Development**: HTML, CSS, PHP, React, Javascript, Typescript
 
 ## Achievements
 - 🏆 **5th Grade**(2020-2021): Romanian National Informatics Olympic - **Gold**
