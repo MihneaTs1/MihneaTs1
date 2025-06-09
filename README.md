@@ -11,7 +11,7 @@ Welcome to my GitHub. I’m a 9th grader at the International Computing High Sch
 
 * **Languages:** C/C++, Python, Java, Rust, Go
 * **Web:** HTML · CSS · JavaScript · TypeScript · PHP · React
-* **Tools:** Linux · Git · Bash · Zsh · VS Code
+* **Tools:** Linux · Git · Bash · Zsh · Neovim · VS Code
 
 ## 🏆 Achievements
 
